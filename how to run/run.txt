@@ -1,0 +1,2 @@
+streamlit run dashboard/app.py
+source .venv/bin/activate
